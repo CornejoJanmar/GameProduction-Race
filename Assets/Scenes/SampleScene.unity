@@ -138,6 +138,18 @@ PrefabInstance:
       propertyPath: motorForce
       value: 4000
       objectReference: {fileID: 0}
+    - target: {fileID: 580311279415431662, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.834
+      objectReference: {fileID: 0}
+    - target: {fileID: 580311279415431662, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.407
+      objectReference: {fileID: 0}
+    - target: {fileID: 580311279415431662, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1.499
+      objectReference: {fileID: 0}
     - target: {fileID: 1248598967819147742, guid: c4cad50aa03bbca42938fe318344950b, type: 3}
       propertyPath: m_Name
       value: Free Racing Car
@@ -270,7 +282,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 499339636}
-  m_LocalRotation: {x: 0.15627378, y: -0.002374461, z: 0.00037568272, w: 0.9877109}
+  m_LocalRotation: {x: 0.15627378, y: -0.002374427, z: 0.00037567737, w: 0.9877109}
   m_LocalPosition: {x: 533.24, y: 4.8599997, z: 17.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -468,7 +480,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 857418018}
-  m_LocalRotation: {x: 0.15627378, y: -0.002374461, z: 0.00037568272, w: 0.9877109}
+  m_LocalRotation: {x: 0.15627378, y: -0.002374427, z: 0.00037567737, w: 0.9877109}
   m_LocalPosition: {x: 533.24, y: 4.8599997, z: 17.35}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
